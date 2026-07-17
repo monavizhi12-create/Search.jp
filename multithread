@@ -1,0 +1,21 @@
+import java.util.function.IntConsumer;
+
+class ZeroEvenOdd {
+    private int n;
+
+    public ZeroEvenOdd(int n) {
+        this.n = n;
+    }
+
+    public void zero(IntConsumer printNumber) throws InterruptedException {
+
+    }
+
+    public void even(IntConsumer printNumber) throws InterruptedException {
+
+    }
+
+    public void odd(IntConsumer printNumber) throws InterruptedException {
+
+    }
+}
